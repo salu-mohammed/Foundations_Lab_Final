@@ -1,6 +1,0 @@
-Log path: /var/log/syslog
-Mission Path: /opt/alpha/mission.txt
-Mission Secret: MISSION SECURE: The sytem is yours. Do not fear the dark.
-
-Token: Secret: 9948-ABX-77
-
